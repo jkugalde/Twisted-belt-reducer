@@ -2,7 +2,7 @@
 
 ## Summary
 
-A concept for a twisted timing belt reducer with a concentric ouput. The idea was to made something small, simple and affordable, using off the shelf pieces. The parts files are [HERE](https://grabcad.com/library/twisted-belt-reducer-1), and the list for this version is [HERE](Parts list.md). This is a link to a [Youtube short](https://www.youtube.com/shorts/Pv9ziZspq7c) showing a simpler version. 
+A concept for a twisted timing belt reducer with a concentric ouput. The idea was to made something small, simple and affordable, using off the shelf pieces. The parts files are [HERE](https://grabcad.com/library/twisted-belt-reducer-1), and the list for this version is [HERE](PARTS.md). This is a link to a [Youtube short](https://www.youtube.com/shorts/Pv9ziZspq7c) showing a simpler version. 
 
 <img src="/imgs/iso1.png" width="400">
 
