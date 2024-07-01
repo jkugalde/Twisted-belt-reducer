@@ -23,7 +23,7 @@ The spacer is for the collar, you may not need it.
 | 60T GT2 Pulley  | 1    |
 | 16T GT2 Idle Pulley  | 2    |
 | 688-2RS Bearing | 2    |
-| 280T GT2 timing belt | 1   |
+| 268T GT2 timing belt | 1   |
 | 8 mm steel round bar  | 50 mm    |
 | 3 mm steel round bar  |   35 mm  |
 | M3 nut  |   14  |
@@ -31,9 +31,6 @@ The spacer is for the collar, you may not need it.
 | M3x15 countersink bolt  |   3  |
 | M3x50 countersink bolt  |   5  |
 | M3x15 socket head bolt  |   2  |
-
-I am not sure about the belt. I used a 300T belt and it was kinda long.
-
 
 
 

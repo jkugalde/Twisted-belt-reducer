@@ -22,6 +22,8 @@ In my first design, this project used an open belt, as I dont have a big assortm
 
 <img src="/imgs/pul1.png" width="400">
 
+Another option is to use a press fitted piece with the shape of the teeths on one side, as b) is showing.
+
 In this case, the output cannot rotate 360° degrees, so watchout. The printed output pulley gives the chance to put a potentiometer or an angle sensor in between the pulleys
 
 ## Future work
